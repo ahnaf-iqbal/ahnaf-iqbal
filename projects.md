@@ -1,4 +1,12 @@
-## 📈 Stockwatch Beta
+# 📁 My Projects
+
+| Project Link | Tech Stack / Languages | Quick Summary |
+| :--- | :--- | :--- |
+| [📈 Stockwatch Beta](#stockwatch-beta) | `Next.js` `TypeScript` `MongoDB` `OpenAI` | Real-time stock tracker & AI analytics |
+
+---
+
+## Stockwatch Beta
 
 An advanced, full-stack stock tracking and market analysis web application that allows users to monitor real-time stock prices, manage personalized watchlists, and receive AI-driven news summaries.
 
