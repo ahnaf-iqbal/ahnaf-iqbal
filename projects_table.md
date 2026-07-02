@@ -1,4 +1,4 @@
-# 📁 My Projects
+# 📁 Projects Table
 
 A central directory of all my projects. Click on any project link to view its detailed documentation, features, and technology stack in `projects.md`.
 
