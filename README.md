@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **navigating the path to AI/ML Engineering and Academic Research**
 
-- 👨‍💻 All of my projects are available at [My Projects](./projects_table.md)
+- 👨‍💻 All of my projects are available at [My Projects](./table_of_contents.md)
 
 - 📫 How to reach me: **ahnafiqbal15@gmail.com**
 
