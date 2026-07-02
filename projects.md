@@ -1,8 +1,6 @@
-# 📁 My Projects
+# 📊 Project Details
 
-| Project Link | Tech Stack / Languages | Quick Summary |
-| :--- | :--- | :--- |
-| [📈 Stockwatch Beta](#stockwatch-beta) | `Next.js` `TypeScript` `MongoDB` `OpenAI` | Real-time stock tracker & AI analytics |
+Detailed information, features, and links for all my projects.
 
 ---
 
