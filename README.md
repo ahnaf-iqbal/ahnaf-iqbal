@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences: [My CV](http://tiny.cc/ahnafCV)
 
-- ⚡ Fun fact: **Hard-stuck Platinum in Valorant, but my ambition is aiming for Radiant. 🫡**
+- ⚡ Fun fact: **Hard-stuck Diamond in Valorant, but my ambition is aiming for Radiant. 🫡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
