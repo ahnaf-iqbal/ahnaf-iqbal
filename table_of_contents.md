@@ -5,3 +5,4 @@ A central directory of all my projects. Click on any project link to view its de
 | Project Link | Tech Stack / Languages | Quick Summary |
 | :--- | :--- | :--- |
 | [📈 Stockwatch Beta](projects.md#stockwatch-beta) | `Next.js` `TypeScript` `MongoDB` `OpenAI` | Real-time stock tracker & AI analytics |
+| [🏎️ highway_surfer](https://github.com/RafiEhtesham/highway_surfer) | `Python` | A 3D endless runner inspired by Subway Surfers where you dodge trains, jump, slide, and switch lanes to survive and score points. |
