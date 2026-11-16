@@ -75,6 +75,30 @@ An automated, IoT-enabled car rental prototype developed for **CSE461: Introduct
 - **Concepts:** Embedded Systems, IoT, Robotics Automation, Hardware Interfacing, Bus Conflict Isolation
 ---
 
+## Autonomous Obstacle Avoiding Robot
+
+An autonomous mobile robotic platform developed for **CSE260: Digital Logic Design** at **BRAC University**. The robot navigates collision-free inside constrained arenas by synthesizing sensory feedback from dual forward-mounted optical infrared (IR) sensors through pure combinational hardware logic (7404 Hex Inverter) and an L298N dual H-Bridge motor driver without relying on microcontroller software loops.
+
+### 🔗 Links
+- **GitHub Repository:** [ahnaf-iqbal/Autonomous-Obstacle-Avoiding-Robot](https://github.com/ahnaf-iqbal/Autonomous-Obstacle-Avoiding-Robot)
+- **Technical Report:** [LAB_PROJECT_REPORT.pdf](https://github.com/ahnaf-iqbal/Autonomous-Obstacle-Avoiding-Robot/blob/main/docs/LAB_PROJECT_REPORT.pdf)
+- **Wiring & Circuit Guide:** [WIRING_AND_CIRCUIT_GUIDE.pdf](https://github.com/ahnaf-iqbal/Autonomous-Obstacle-Avoiding-Robot/blob/main/docs/WIRING_AND_CIRCUIT_GUIDE.pdf)
+- **Demo Video:** [demo_video.mp4](https://github.com/ahnaf-iqbal/Autonomous-Obstacle-Avoiding-Robot/blob/main/media/demo_video.mp4)
+
+### 🚀 Key Features & Highlights
+- **Microcontroller-Free Autonomous Navigation:** Real-time obstacle avoidance with zero software overhead or instruction execution delays using gate-level TTL logic.
+- **Differential Steering Kinematics:** Two independently driven TT DC gear motors execute forward driving, pivot turns, and reverse evasive maneuvers.
+- **Combinational Logic Synthesis:** Formal Boolean algebraic mapping ($IN_1 = S_R, IN_2 = \overline{S_R}, IN_3 = S_L, IN_4 = \overline{S_L}$) using standard 7404 Hex Inverter IC.
+- **Optical Infrared Proximity Sensing:** Dual active-low LM358 comparator-based IR reflectance sensors with calibrated potentiometers (8–10 cm detection range).
+- **H-Bridge Inductive Motor Driving:** L298N module provides high-current motor control with flyback diode protection and 5V regulated logic power.
+- **Simulation Models:** Includes complete Verilog HDL structural/behavioral models with testbench and 2D kinematic trajectory simulation in Python.
+
+### 🛠️ Tech Stack & Hardware
+- **Hardware:** 7404 Hex Inverter TTL IC, L298N Dual H-Bridge Driver, 2x TT DC Gear Motors (1:48), 2x Optical IR Proximity Sensors (LM358), 9V Heavy Duty Battery, Breadboard
+- **Simulation & Firmware:** Verilog HDL (ModelSim / Icarus Verilog), Python (Matplotlib kinematic simulation), C++ (Optional Arduino Uno firmware)
+- **Core Concepts:** Combinational Digital Logic Design, Boolean Algebra, Truth Tables, H-Bridge Motor Driving, Differential Drive Kinematics
+---
+
 ## Highway Surfer
 
 A 3D endless runner game inspired by Subway Surfers, built using Python and OpenGL. Players navigate through a 3-lane railway system, dodging oncoming trains and obstacles by jumping, sliding, and switching lanes to survive and maximize their score.
